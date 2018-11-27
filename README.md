@@ -1,2 +1,2 @@
 # ramcodes
-Experiments with Git
+Experiments with GANs
